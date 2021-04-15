@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Monumento
+comment1.params=Nombre\ Ubicacion\ Color\ A\u00F1o
+comment1.target=Monumento(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ Informe()
+comment11.params=
+comment11.target=void\ Datos()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getUbicacion()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=int\ getA\u00F1o()
+comment6.params=Nombre
+comment6.target=void\ setNombre(java.lang.String)
+comment7.params=Ubicacion
+comment7.target=void\ setUbicacion(java.lang.String)
+comment8.params=Color
+comment8.target=void\ setColor(java.lang.String)
+comment9.params=A\u00F1o
+comment9.target=void\ setA\u00F1o(int)
+numComments=12
